@@ -2,6 +2,7 @@ import static java.lang. Math.abs;
 import static java. lang .Math .pow;
 import static java. lang. Math .sqrt;
 public class B_TestAbsPow {
+    //menggunakanfungsi nilai absolut (abs), perpangkatan (pow) dan akar (sqrt)
     public static void main(String[]args) {
         //abs() and signum()
         //sin(), cos(), tan(), acos(), asin(), atan()
