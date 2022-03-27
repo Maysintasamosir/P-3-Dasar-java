@@ -2,6 +2,7 @@ import static java.lang.Math.pow;
 import static java.lang. Math.sqrt;
 
 public class C_TestPythagoras {
+    //menggunakan perpangkatan (pow) dan akar (sqrt) untuk menghitungpythagoras
 
     public static void main(String[] args) {
         double a = 8;
